@@ -8,7 +8,7 @@
     "nodemailer": "^6.10.0"
   },
 "scripts": {
-  "start": "ls -R && node server.js"
+  "start": "ls -R && node Server.js"
 }
 
 }
